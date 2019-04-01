@@ -30,7 +30,8 @@ Business Questions ( Business Understanding) - specific to USA
 - What programming language do developers who earn top 5 average Salaries use?
 
 ## File Descriptions <a name="files"></a>
-* survey_results_public.csv : Stack Overflow developer survey data from 2018
+* survey_results_schema.csv : Stack Overflow developer survey data schema from 2018
+* [survey_results_public.csv](https://insights.stackoverflow.com/survey)
 * stack-overflow-data-analysis-USA.ipynb : Jputer notebook used for the project
 
 ## Results<a name="results"></a>
